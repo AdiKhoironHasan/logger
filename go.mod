@@ -1,4 +1,4 @@
-module github.com/AdiKhoironHasan/logger
+module github.com/adikhoironhasan/logger
 
 go 1.22.5
 
